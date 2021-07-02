@@ -3,6 +3,9 @@ layout: page
 title: ABOUT ME
 ---
 
+<img src="images/about/JP.png width="250px"></img>
+<img src="images/about/JP2.png height="300px"></img>
+
 ### JONGWON PARK
 I am a Ph.D. candidate of Astronomy Department at the University of Maryland, College Park.
 I got my bachelor's and master's degree from Yonsei University and worked on various topics of galaxy
