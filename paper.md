@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paper
+title: PAPERS
 ---
 
 ### STAR FORMATION OF MERGING DISK GALAXIES WITH AGN FEEDBACK EFFECTS
