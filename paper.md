@@ -4,7 +4,7 @@ title: Paper
 ---
 
 ### STAR FORMATION OF MERGING DISK GALAXIES WITH AGN FEEDBACK EFFECTS
-<span style="color:blue">Jongwon Park</span>, Rory Smith & Sukyoung K. Yi    
+<span style="color: rgb(0,191,255)">Jongwon Park</span>, Rory Smith & Sukyoung K. Yi    
 2017, ApJ, 845, 128......
 [[ADS](https://ui.adsabs.harvard.edu/abs/2017ApJ...845..128P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/1707.07382){:target="_blank_"}]   
 
