@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ABOUT ME
+order: 6
 ---
 
 <img src="images/about/JP.png" width="250px"/> 
