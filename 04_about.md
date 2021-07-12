@@ -17,7 +17,7 @@ To study them, I make use of radiative hydrodynamics code RAMSES-RT and carry ou
 My job includes implementing various physics (chemistry, radiative processes, etc.), performing simulations using a supercomputer, and understanding the results physically.
 
 ### CV
-[[CV](https://www.astro.umd.edu/~jwpark/data/CV.pdf){:target="_blank_"}]
+[CV](https://www.astro.umd.edu/~jwpark/data/CV.pdf){:target="_blank_"}
 
 ### RESEARCH INTERESTS
 * Formation of the First Stars and Galaxies
