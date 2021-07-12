@@ -29,3 +29,6 @@ My job includes implementing various physics (chemistry, radiative processes, et
 * 2015.03 - 2017.02: M.S., Yonsei University
 * 2008.08 - 2010.10: Military Service (Republic of Korea Air Force)
 * 2008.03 - 2015.02: B.S., Yonsei University
+
+### CONTACT INFORMATION
+* jwpark (at) umd (dot) edu
