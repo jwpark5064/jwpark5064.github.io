@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ABOUT ME
-permalink: about 
+title: HOME
+permalink: home
 ---
 
 <img src="images/about/JP.png" width="250px"/> 
