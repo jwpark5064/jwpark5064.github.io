@@ -6,12 +6,12 @@ permalink: paper
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: II. PROTOSTELLAR DISCS, MULTIPLICITY AND MASS FUNCTION OF THE STARS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
-arXiv: 2107.07898
+2021, MNRAS, 508, 6193
 [[ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.6193P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2107.07898){:target="_blank_"}]   
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: I. CRITICAL HALO MASS OF FORMATION AND TOTAL MASS IN STARS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
-arXiv: 2107.07883
+2021, MNRAS, 508, 6176
 [[ADS](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.6176P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2107.07883){:target="_blank_"}]   
 
 ### STAR FORMATION OF MERGING DISK GALAXIES WITH AGN FEEDBACK EFFECTS
