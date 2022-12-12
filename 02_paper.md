@@ -4,6 +4,11 @@ title: PAPERS
 permalink: paper
 ---
 
+### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: III. PERIODIC RADIATIVE FEEDBACK AND LUMINOSITY INDUCED BY ELLIPTICAL ORBITS
+<span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
+arXiv:2212.04564
+[[arXiv](https://arxiv.org/abs/2212.04564){:target="_blank_"}]   
+
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: II. PROTOSTELLAR DISCS, MULTIPLICITY AND MASS FUNCTION OF THE STARS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
 2021, MNRAS, 508, 6193......
