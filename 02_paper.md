@@ -11,7 +11,7 @@ arXiv:2212.13946
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: III. PERIODIC RADIATIVE FEEDBACK AND LUMINOSITY INDUCED BY ELLIPTICAL ORBITS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
-arXiv:2212.04564
+2023, MNRAS, 521, 5334......
 [[ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5334P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2212.04564){:target="_blank_"}]   
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: II. PROTOSTELLAR DISCS, MULTIPLICITY AND MASS FUNCTION OF THE STARS
