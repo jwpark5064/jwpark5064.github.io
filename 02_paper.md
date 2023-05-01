@@ -6,8 +6,8 @@ permalink: paper
 
 ### STAR CLUSTER FORMATION AND SURVIVAL IN THE FIRST GALAXIES 
 Fred Angelo Batan Garcia, Massimo Ricotti, Kazuyuki Sugimura & <span style="color: rgb(43,102,187)">Jongwon Park</span>    
-arXiv:2212.13946
-[[arXiv](https://arxiv.org/abs/2212.13946){:target="_blank_"}]   
+2023, MNRAS, 522, 2495......
+[[ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2495G/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2212.13946){:target="_blank_"}]   
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: III. PERIODIC RADIATIVE FEEDBACK AND LUMINOSITY INDUCED BY ELLIPTICAL ORBITS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
