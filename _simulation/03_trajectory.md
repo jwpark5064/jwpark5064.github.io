@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: trajectory
+permalink: /:simulation/:trajectory
 ---
 
 ## TRAJECTORIES OF POPULATION III PROTOSTARS
