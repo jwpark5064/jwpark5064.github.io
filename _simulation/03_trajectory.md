@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 permalink: "/_simulation/trajectory"
 ---
 
