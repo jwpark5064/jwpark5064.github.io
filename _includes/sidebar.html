@@ -14,6 +14,7 @@
 <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
       <li class="nav-title">Pages</li>
+<!--
 	<li>
                 <a class=="nav-item" href="https://jwpark5064.github.io/research">
 		RESEARCHES
@@ -30,10 +31,12 @@
 		</a>
 	</li>
 	</ul>
-<!--
+-->
+
 	  {% assign pages_list = site.pages %}
 	  {% for node in pages_list %}
 	    {% if node.title != null %}
+	    {% if node.title != "" %}
 	      {% if node.layout == "page" %}
 	        <li>
 	        	<a class="nav-item" href="{{ node.url }}">
@@ -42,7 +45,8 @@
 	        </li>
 	      {% endif %}
 	    {% endif %}
+	    {% endif %}
 	  {% endfor %}
 	</ul>
--->
+
 </div>
