@@ -5,6 +5,12 @@ permalink: "/_simulation/general"
 ---
 
 ## FORMATION OF MULTIPLE POPULATION III STARS
-This page demonstrates a movie of a hierarchical Pop III binary presented in 
-Park et al. (2023).
+The movie shows gas density, temperature, H<sub>2</sub> fraction, H II fraction, LW photon density, and ionizing UV photon density.
+The top panels show face-on view and the bottom ones show edge-on view.
+Scientific results are presented in [Park et al. (2021a)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.6176P/abstract){:target="_blank_"} and 
+[Park et al. (2021b)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.6193P/abstract){:target="_blank_"}.     
+
+### [<- Back](https://jwpark5064.github.io/simulation)
+
+### Run A
 <iframe width="1080" height="630" src="https://www.youtube.com/embed/dFuQVl5JpVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
