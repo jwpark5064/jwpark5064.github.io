@@ -6,8 +6,10 @@ permalink: "/_simulation/trajectory"
 
 ## TRAJECTORIES OF POPULATION III PROTOSTARS
 The movies show the trajectories of Pop III protostars.
-Scientific results are presented in [[Park et al. (2023a)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5334P/abstract){:target="_blank_"}] and 
-[[Park et al. (2023b)](https://ui.adsabs.harvard.edu/abs/2023arXiv230714562P/abstract){:target="_blank_"}]. 
+Scientific results are presented in [Park et al. (2023a)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5334P/abstract){:target="_blank_"} and 
+[Park et al. (2023b)](https://ui.adsabs.harvard.edu/abs/2023arXiv230714562P/abstract){:target="_blank_"}.     
+
+[### <- Back](https://jwpark5064.github.io/simulation)
 
 ### Run A
 <iframe width="553" height="450" src="https://www.youtube.com/embed/BQbZQY05VOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
