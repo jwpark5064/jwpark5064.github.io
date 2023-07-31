@@ -3,9 +3,8 @@ layout: page
 title: SIMULATIONS
 permalink: simulation
 ---
-## SIMULATION
-Click the above images to see the animations. This is the density and temperature
-of a star forming region in a small dark matter halo in the early Universe.
+Click the below images to see the movies. Each figure links to a page with a specific topic.
+See also a compilation of movies on [Youtube](https://www.youtube.com/@jp_astro_simulation/videos).
 
 ### TRAJECTORIES OF POPULATION III PROTOSTARS
 [<img src="images/simulation/orbit.png" width="450px"/>](https://jwpark5064.github.io/_simulation/trajectory)
