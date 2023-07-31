@@ -5,7 +5,7 @@ permalink: paper
 ---
 
 ### ON THE ORIGIN OF OUTWARD MIGRATION OF POPULATION III STARS
-<span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti, Kazuyuki Sugimura 
+<span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura	
 arXiv:2307.14562
 [[ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230714562P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2307.14562){:target="_blank_"}] 
 
