@@ -4,7 +4,7 @@ title: SIMULATIONS
 permalink: simulation
 ---
 Click the below images to see the movies. Each figure links to a page with a specific topic.
-See also a compilation of movies on [Youtube](https://www.youtube.com/@jp_astro_simulation/videos).
+See also a compilation of movies on [[Youtube](https://www.youtube.com/@jp_astro_simulation/videos){:target="_blank_"}].
 
 ### TRAJECTORIES OF POPULATION III PROTOSTARS
 [<img src="images/simulation/orbit.png" width="450px"/>](https://jwpark5064.github.io/_simulation/trajectory)
