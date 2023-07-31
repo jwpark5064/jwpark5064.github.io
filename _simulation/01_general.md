@@ -15,4 +15,4 @@ Scientific results are presented in [Park et al. (2023a)](https://ui.adsabs.harv
 <iframe width="1080" height="630" src="https://www.youtube.com/embed/dFuQVl5JpVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Run F
-<iframe width="1080" height="630" src="https://youtu.be/9Z3nvCmwGyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1080" height="630" src="https://www.youtube.com/embed/9Z3nvCmwGyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
