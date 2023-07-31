@@ -7,8 +7,7 @@ permalink: "/_simulation/general"
 ## FORMATION OF MULTIPLE POPULATION III STARS
 The movie shows gas density, temperature, H<sub>2</sub> fraction, H II fraction, LW photon density, and ionizing UV photon density.
 The top panels show face-on view and the bottom ones show edge-on view.
-Scientific results are presented in [Park et al. (2021a)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.6176P/abstract){:target="_blank_"} and 
-[Park et al. (2021b)](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.6193P/abstract){:target="_blank_"}.     
+Scientific results are presented in [Park et al. (2023a)](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5334P/abstract){:target="_blank_"}.    
 
 ### [<- Back](https://jwpark5064.github.io/simulation)
 
