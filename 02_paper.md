@@ -7,7 +7,7 @@ permalink: paper
 ### ON THE ORIGIN OF OUTWARD MIGRATION OF POPULATION III STARS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
 2024, MNRAS, 528, 6895......
-[[Journal](https://academic.oup.com/mnras/article/528/4/6895/7610905?searchresult=1){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2307.14562){:target="_blank_"}] 
+[[ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.6895P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2307.14562){:target="_blank_"}] 
 
 ### STAR CLUSTER FORMATION AND SURVIVAL IN THE FIRST GALAXIES 
 Fred Angelo Batan Garcia, Massimo Ricotti, Kazuyuki Sugimura & <span style="color: rgb(43,102,187)">Jongwon Park</span>    
