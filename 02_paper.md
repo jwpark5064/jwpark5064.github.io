@@ -4,6 +4,13 @@ title: PAPERS
 permalink: paper
 ---
 
+#https://ui.adsabs.harvard.edu/public-libraries/A2eDlsA2SuKAY8MSgHue0w
+
+### VIOLENT STARBURSTS AND QUESCENCE INDUCED BY FUV RADIATION FEEDBACK IN METAL-POOR GALAXIES AT HIGH-REDSHIFT 
+Kazuyuki Sugimura, Massimo Ricotti, <span style="color: rgb(43,102,187)">Jongwon Park</span>, Fred Angelo Batan Garcia & Hidenobu Yajima    
+2024, arXiv:2403.04824
+[[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240304824S/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2403.04824){:target="_blank_"}] 
+
 ### ON THE ORIGIN OF OUTWARD MIGRATION OF POPULATION III STARS
 <span style="color: rgb(43,102,187)">Jongwon Park</span>, Massimo Ricotti & Kazuyuki Sugimura    
 2024, MNRAS, 528, 6895......
