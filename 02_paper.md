@@ -4,7 +4,8 @@ title: PAPERS
 permalink: paper
 ---
 
-You can also find a list of my papers on ADS ([LINK](https://ui.adsabs.harvard.edu/public-libraries/A2eDlsA2SuKAY8MSgHue0w){:target="_blank_"}).
+You can also find a list of my papers on ADS ([LINK](https://ui.adsabs.harvard.edu/public-libraries/A2eDlsA2SuKAY8MSgHue0w){:target="_blank_"}) or
+Google Scholar ([LINK](https://scholar.google.com/citations?user=_e_71_UAAAAJ&hl=ko&authuser=1){:target="_blank_"}).
 
 ### VIOLENT STARBURSTS AND QUESCENCE INDUCED BY FUV RADIATION FEEDBACK IN METAL-POOR GALAXIES AT HIGH-REDSHIFT 
 Kazuyuki Sugimura, Massimo Ricotti, <span style="color: rgb(43,102,187)">Jongwon Park</span>, Fred Angelo Batan Garcia & Hidenobu Yajima    
