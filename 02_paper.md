@@ -8,12 +8,12 @@ You can also find a list of my papers on ADS ([LINK](https://ui.adsabs.harvard.e
 Google Scholar ([LINK](https://scholar.google.com/citations?user=_e_71_UAAAAJ&hl=ko&authuser=1){:target="_blank_"}).
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: V. ENVIRONMENTAL DEPENDENCE AND HALO OCCUPATION PROBABILITY
-<span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti
+<span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti    
 arXiv:2603.26353......
 [[arXiv](https://arxiv.org/abs/2603.26353){:target="_blank_"}] 
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: IV. ON-THE-FLY CALCULATION OF RADIATION BACKGROUNDS AND THEIR IMPACT ON THE INTERGALACTIC MEDIUM 
-<span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti
+<span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti    
 arXiv:2603.26352......
 [[arXiv](https://arxiv.org/abs/2603.26352){:target="_blank_"}] 
 
