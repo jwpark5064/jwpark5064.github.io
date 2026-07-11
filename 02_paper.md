@@ -9,12 +9,12 @@ Google Scholar ([LINK](https://scholar.google.com/citations?user=_e_71_UAAAAJ&hl
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: V. ENVIRONMENTAL DEPENDENCE AND HALO OCCUPATION PROBABILITY
 <span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti    
-2026, MNRAS, 550g, 1111P
+2026, MNRAS, 550g, 1111P......
 [[ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1111P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2603.26353){:target="_blank_"}] 
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: IV. ON-THE-FLY CALCULATION OF RADIATION BACKGROUNDS AND THEIR IMPACT ON THE INTERGALACTIC MEDIUM 
 <span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti    
-2026, MNRAS, 550g, 1080P
+2026, MNRAS, 550g, 1080P......
 [[ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.550g1080P/abstract){:target="_blank_"}] [[arXiv](https://arxiv.org/abs/2603.26352){:target="_blank_"}] 
 
 ### VIOLENT STARBURSTS AND QUESCENCE INDUCED BY FUV RADIATION FEEDBACK IN METAL-POOR GALAXIES AT HIGH-REDSHIFT 
