@@ -5,7 +5,7 @@ permalink: paper
 ---
 
 You can also find a list of my papers on ADS ([LINK](https://ui.adsabs.harvard.edu/public-libraries/A2eDlsA2SuKAY8MSgHue0w){:target="_blank_"}) or
-Google Scholar ([LINK](https://scholar.google.com/citations?user=_e_71_UAAAAJ&hl=ko&authuser=1){:target="_blank_"}).
+Google Scholar ([LINK](https://scholar.google.com/citations?user=_e_71_UAAAAJ&hl=en){:target="_blank_"}).
 
 ### POPULATION III STAR FORMATION IN AN X-RAY BACKGROUND: V. ENVIRONMENTAL DEPENDENCE AND HALO OCCUPATION PROBABILITY
 <span style="color: rgb(43,102,187)">Jongwon Park</span> & Massimo Ricotti    
