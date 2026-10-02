@@ -2,6 +2,8 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Jongwon Park';
+export const SITE_DESCRIPTION = 'Theoretical astronomer studying the formation of the first stars and galaxies.';
+export const CV_URL = '/cv';
 
 export const CONTACT = {
   emails: [
