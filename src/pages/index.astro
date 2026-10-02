@@ -1,0 +1,150 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import bibFileRaw from '../data/publications.bib?raw';
+import { url } from '../utils/paths';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+).slice(0, 3);
+
+interface Author {
+	first: string;
+	last: string;
+}
+
+interface BibEntry {
+	type: string;
+	key: string;
+	fields: Record<string, string>;
+	authors: Author[];
+}
+
+function parseBibTeX(input: string): BibEntry[] {
+    const entries: BibEntry[] = [];
+    const rawEntries = input.split(/@(\w+)\s*\{/g).slice(1);
+
+    for (let i = 0; i < rawEntries.length; i += 2) {
+        const type = rawEntries[i].trim();
+        const body = rawEntries[i+1];
+        if (!body) continue;
+
+        const keyMatch = body.match(/^\s*([^,]+),/);
+        const key = keyMatch ? keyMatch[1].trim() : 'unknown';
+        
+        const fields: Record<string, string> = { title: "Untitled", year: "0000" };
+        const fieldRegex = /(\w+)\s*=\s*(?:\{((?:[^{}]|{[^{}]*})*)\}|"((?:[^"]|\\")*)"|(\d+))/g;
+        
+        let match;
+        while ((match = fieldRegex.exec(body)) !== null) {
+            const fieldKey = match[1].toLowerCase();
+            const val = match[2] || match[3] || match[4] || "";
+            fields[fieldKey] = val.replace(/\s+/g, ' ').trim();
+        }
+
+        let authors: Author[] = [];
+        if (fields.author) {
+            authors = fields.author.split(/\s+and\s+/i).map(str => {
+                const parts = str.split(',');
+                if (parts.length > 1) {
+                    return { first: parts[1].trim(), last: parts[0].trim() };
+                } else {
+                    const names = str.trim().split(' ');
+                    const last = names.pop() || "";
+                    const first = names.join(' ');
+                    return { first, last };
+                }
+            });
+        }
+        entries.push({ type, key, fields, authors });
+    }
+    return entries;
+}
+
+const publications = parseBibTeX(bibFileRaw).sort((a, b) => {
+    return (parseInt(b.fields.year) || 0) - (parseInt(a.fields.year) || 0);
+}).slice(0, 3);
+
+const formatAuthor = (auth: Author) => {
+    return auth.first ? `${auth.first} ${auth.last}` : auth.last;
+};
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero {
+				display: flex;
+				align-items: center;
+				gap: 4rem;
+				padding: 4rem 0;
+				margin-bottom: 2rem;
+			}
+			.hero-content { flex: 3; }
+			.hero-image { 
+				flex: 2; 
+				text-align: center;
+                position: relative;
+			}
+			.hero-image img {
+				width: 280px;
+				height: 280px;
+				object-fit: cover;
+				border-radius: 50%;
+				border: 6px solid var(--color-bg);
+				box-shadow: 0 0 0 1px var(--color-border), var(--shadow-lg);
+			}
+            
+            .pub-mini-item {
+                margin-bottom: 1.5rem;
+                padding-bottom: 1.5rem;
+                border-bottom: 1px solid var(--color-border);
+            }
+            .pub-mini-item:last-child { border-bottom: none; margin-bottom: 0; }
+            .pub-title { font-weight: 700; color: var(--color-text-main); display: block; margin-bottom: 0.25rem; font-family: var(--font-serif); font-size: 1.1rem; }
+            .pub-meta { font-size: 0.9rem; color: var(--color-text-muted); }
+
+			.hero-buttons {
+				display: flex;
+				gap: 1rem;
+				flex-wrap: wrap;
+			}
+			@media (max-width: 768px) {
+				.hero { flex-direction: column-reverse; text-align: center; padding: 2rem 0; gap: 2rem; }
+                .hero-image img { width: 200px; height: 200px; }
+                .hero-buttons { justify-content: center; }
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<div class="hero-content">
+					<h1 style="margin-bottom: 0.5rem; font-size: 3rem;">Jongwon Park</h1>
+					<p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 2rem;">
+						I am a postdoctoral researcher in the Department of Astronomy at Yonsei University. I obtained my bachelor's and master's degree from Yonsei University in South Korea, where I worked on various topics related to galaxy evolution with Professor Sukyoung K. Yi. In 2018, I moved to the University of Maryland, College Park, to study the formation of Population III stars with Professor Massimo Ricotti. After receiving my Ph.D. in May 2024, I returned to Yonsei University and I am currently collaborating with Professor Taysun Kimm and Sukyoung Yi on various topics in galaxy formation.
+
+My research interests include the formation of metal-free and metal-poor stars and their impact on the formation of the first galaxies and dwarf galaxies. To study these, I utilize the hydrodynamics code RAMSES and conduct computer simulations. My work involves implementing various physical processes (chemistry, radiative processes, etc.), performing simulations using a supercomputer, and physically interpreting the results.					</p>
+					<div class="hero-buttons">
+						<a href={url('/publications')} class="btn">View Publications</a>
+						<a href={url('/projects')} class="btn btn-outline">Current Projects</a>
+					</div>
+				</div>
+				<div class="hero-image">
+					<Image src={url('/images/about/JP.png')} width={280} height={280} alt="Professor Portrait" fetchpriority="high" decoding="async" />
+				</div>
+			</section>
+
+			<hr style="margin: 3rem 0; border-top: 1px solid var(--color-border);" />
+
+		</main>
+		<Footer />
+	</body>
+</html>

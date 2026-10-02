@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Lya",
+    "title": "Lyman-α Feedback",
+    "description": "Lyman-alpha feedback.",
+    "heroImage": "/src/assets/blog-placeholder-5.jpg"
+  },
+  {
+    "id": "First_galaxies",
+    "title": "First Galaxies",
+    "description": "First galaxies.",
+    "heroImage": "/src/assets/blog-placeholder-5.jpg"
+  },
+  {
+    "id": "critical-mass",
+    "title": "Critical Mass of Halos for Pop III Star Formation",
+    "description": "Study Pop III critical mass.",
+    "heroImage": "/src/assets/blog-placeholder-5.jpg"
+  },
+  {
+    "id": "low-metallicity-star-formation",
+    "title": "Formation of Low-metallicity Stars",
+    "description": "Low-metallicity star formation.",
+    "heroImage": "/src/assets/blog-placeholder-2.jpg"
+  }
+]

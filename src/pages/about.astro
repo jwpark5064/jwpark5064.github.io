@@ -1,0 +1,98 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+	<BaseHead title={`About | ${SITE_TITLE}`} />
+</head>
+
+<body>
+	<Header />
+
+	<main class="about-page">
+		<h1>About</h1>
+
+		<div class="about-content">
+			<div class="about-text">
+				<p>
+					I am a postdoctoral researcher in the Department of Astronomy at Yonsei University.
+					I obtained my bachelor's and master's degrees from Yonsei University in South Korea,
+					where I worked on various topics related to galaxy evolution with Professor Sukyoung K. Yi.
+					In 2018, I moved to the University of Maryland, College Park, to study the formation of
+					Population III stars with Professor Massimo Ricotti. After receiving my Ph.D. in May 2024,
+					I returned to Yonsei University and I am currently collaborating with Professor Taysun Kimm
+					and Professor Sukyoung K. Yi on various topics in galaxy formation.
+				</p>
+
+				<p>
+					My research interests include the formation of metal-free and metal-poor stars and their
+					impact on the formation of the first galaxies and dwarf galaxies. To study these, I utilize
+					the hydrodynamics code RAMSES and conduct computer simulations. My work involves implementing
+					various physical processes, including chemistry and radiative processes, performing simulations
+					using a supercomputer, and physically interpreting the results.
+				</p>
+			</div>
+
+			<div class="profile-photo">
+				<img
+					src="/images/about/JP.png"
+					alt="Jongwon Park"
+				/>
+			</div>
+		</div>
+	</main>
+
+	<Footer />
+</body>
+</html>
+
+<style>
+	.about-page {
+		max-width: 1000px;
+		margin: 0 auto;
+		padding: 3rem 1.5rem;
+	}
+
+	.about-page h1 {
+		margin-bottom: 2rem;
+	}
+
+	.about-content {
+		display: grid;
+		grid-template-columns: 1fr 250px;
+		gap: 3rem;
+		align-items: start;
+	}
+
+	.about-text p {
+		line-height: 1.7;
+		margin: 0 0 1.5rem;
+	}
+
+	.profile-photo img {
+		display: block;
+		width: 100%;
+		height: auto;
+		border-radius: 8px;
+	}
+
+	@media (max-width: 700px) {
+		.about-page {
+			padding: 2rem 1rem;
+		}
+
+		.about-content {
+			grid-template-columns: 1fr;
+		}
+
+		.profile-photo {
+			order: -1;
+			max-width: 220px;
+		}
+	}
+</style>
