@@ -173,10 +173,12 @@ const projects = projectsData.sort((a, b) => b.year - a.year);
 				{projects.length > 0 ? projects.map((project) => (
 					<article class="project-card">
 						<div class="project-image">
-							<img
-								src={url(`/projects/${project.id}.png`)}
-								alt={project.title}
-							/>
+							{project.image && (
+							    <img
+							        src={url(project.image)}
+							        alt={project.title}
+							    />
+							)}
 							<span class="project-badge">{project.status}</span>
 						</div>
 

@@ -11,12 +11,14 @@
   },
   {
     "id": "critical-mass",
-    "title": "Critical Mass of Halos for Population III Star Formation",
-    "description": "It is expected that Population III stars form in minihaloes of more massive than ~ 10<sup>6</sup> M<sub>\u2609</sub>. In the literature, however, Pop III-forming halos have wide mass ranges. Using Ramses-RT and PGadget-3, I aim at understanding conditions for Pop III star formation, and exploring their impact on galaxy formation."
+    "title": "Critical Mass of Halos for Pop III Star Formation",
+    "description": "Study Pop III critical mass.",
+    "image": "/projects/critical-mass.png"
   },
   {
     "id": "low-metallicity-star-formation",
     "title": "Formation of Low-metallicity Stars",
-    "description": "It is known that Population III stars have top-heavy initial mass function. Using Ramses-PRISM (Katz+ 2022), I study the formation of low-poor stars to understand how properties of stars change with metallicity and how they contribute to the formation of galaxies across cosmic history."
+    "description": "Low-metallicity star formation.",
+    "image": "/projects/low-metallicity-star-formation.png"
   }
 ]
